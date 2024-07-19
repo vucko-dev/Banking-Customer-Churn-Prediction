@@ -1,4 +1,4 @@
-# Banking Customer Churn Prediction Dataset - Understanding Customer Behavior and Predicting Churn in Banking Institutions
+# Banking Customer Churn Prediction - Understanding Customer Behavior and Predicting Churn in Banking Institutions
 
 **Documentation is also available in Serbian in the file Dokumentacija.pdf.**
 
